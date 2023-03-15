@@ -1,6 +1,12 @@
 # kdt-metro
 url : https://kwakdongwoo.github.io/kdt-metro-test-03/
-
+1. Step 1
+2. Step 2
+3. Step 3
+    1. Step 3.1
+    2. Step 3.2
+    3. Step 3.3
+    4. 
 
  1. 팀원 : 
 곽동우, 이혜지, 조현서
