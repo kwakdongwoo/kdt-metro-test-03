@@ -11,7 +11,7 @@ url : https://kwakdongwoo.github.io/kdt-metro-test-03/
    - 일상생활 속 가장 많이 사용하는 웹/앱 중 하나인 지하철 앱속 기능 중 실시간 도착정보와 혼잡도만을 표기하는 것으로 경령화하여 해당 내용만 필요한 유저의 니즈를 해소하고자 함
    
 
- - 2-2) 주요 기능
+ -  2-2) 주요 기능
   - LINE2 METRO MAP 구현
     : METRO PLUG IN 사용
   - 실시간 도착정보 및 칸 별 혼잡도 DISPLAY
