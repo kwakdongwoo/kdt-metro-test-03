@@ -4,9 +4,8 @@ url : https://kwakdongwoo.github.io/kdt-metro-test-03/
 
 
 
-2. 팀원 : 
-    곽동우 
-3. ㄴㄹㄴㅇㄹ :
+2. 팀원 : 곽동우 
+3.ㄴㄹㄴㅇㄹ 
     1.ㅇㄹㄴㄴㅇ
     2.ㄴㄹㄴㄹㄴㅇㄹㄹ
     3.ㄴㅇㄹㄴㅇㄹㅇ
