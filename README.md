@@ -28,6 +28,6 @@ url : https://kwakdongwoo.github.io/kdt-metro-test-03/
 5. 개선 방향   
 - 디자인 컨셉 통일  
 - 사이즈별 세부적인 반응형 개발 진행  
-- GPS 송신을 통한 가까운역 상황 표현 개발 예정  
+- 위치정보 수신을 통한 가까운역 상황 표현 개발 예정  
 - LINE2 MAP위 실시간 열차 위치 표현  
 
