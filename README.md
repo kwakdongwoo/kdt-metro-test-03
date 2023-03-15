@@ -12,10 +12,10 @@ url : https://kwakdongwoo.github.io/kdt-metro-test-03/
    
 
  * 2-2) 주요 기능
-  * LINE2 METRO MAP 구현
+  ** LINE2 METRO MAP 구현
     : METRO PLUG IN 사용
-  * 실시간 도착정보 및 칸 별 혼잡도 DISPLAY
-  * 최근 검색 기록, 즐겨찾기 기능 개발
+  ** 실시간 도착정보 및 칸 별 혼잡도 DISPLAY
+  ** 최근 검색 기록, 즐겨찾기 기능 개발
  
  
 3. 디자인 컨셉
